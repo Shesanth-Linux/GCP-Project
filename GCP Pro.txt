@@ -1,0 +1,2 @@
+This file is for GCP Project.
+And all the instances is used in the VM.
